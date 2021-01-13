@@ -103,6 +103,15 @@
       "ads_name": "WhatsApp Messenger",
       "ads_Link": "https://play.google.com/store/apps/details?id=com.whatsapp"
     }  
+     ,
+     {
+      "des": "All the info you watch free Indian TV channels in Assamese, Bengali, Bhojpuri, English, Gujarati, Hindi, Kannada, Maithili, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu and Urdu languages.",
+      "banner": "https://play-lh.googleusercontent.com/2aH6NPEmoWsQbdZ8nYg0fQi4M1JcPqVnAuCswlZ2jEpr0QA1kgVpWDomFJqRCDw8MYj-=w720-h310-rw",
+      "image_path": "https://play-lh.googleusercontent.com/jbkNwGWTc35AmqLHgwhWDuGqcpXekXDd8QH_uIIPPKWhD9z2yM0cBsAKdGuJ03S-5GpM=s180-rw",
+      "ads_name": "Snake Video - Original Snack Video",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.snckvideo.lite"
+    }  
+    
   
   ]
 }
