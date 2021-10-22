@@ -1,21 +1,6 @@
 {
   "ad1":[
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/wcSnn-151O1AFdxxXpydLjcmwQY-Sd_kmMD-uaLfJwtIUrRb0nZ608IRspTPyO-v9So=s180-rw",
-      "ads_name": "Dream 11",
-      "ads_Link": "https://play.google.com/store/apps/details?id=dreamteam.fantacyteam.hotstar.dream11.cricket02"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/p4jBiB27VzGLB5YMTk5KCOG70e0PynQQ6MZggBOgzIIUyN3_vtNZKXiDdIGzzrOtwy5u=s180-rw",
-      "ads_name": "Howzat Fantasy Cricket App - Free Fantasy Games",
-      "ads_Link": "https://play.google.com/store/apps/details?id=howzatfantasy.howzatfantasycricket.freecricket.pridection.cricketguide01"
-    },
-  
-    {
+       {
       "des": "",
       "banner": "",
       "image_path": "https://play-lh.googleusercontent.com/3IYLI-oZAlsBNFXFddoCdzfv6pxrBoLE6kGE782kasjUaz582iCqz4Fh4DWDfwEikg=s180-rw",
@@ -53,6 +38,8 @@
       "ads_name": "Movie Fire",
       "ads_Link": "https://play.google.com/store/apps/details?id=moviefiremoviedownload.moviefireappdownload.moviefireappdownload01"
     },
+    
+    
     {
       "des": "",
       "banner": "",
