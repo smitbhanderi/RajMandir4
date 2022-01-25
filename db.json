@@ -1,150 +1,92 @@
 {
-  "ad1":[
+  "ad1": [
+    {
+      "des": "4.7",
+      "banner": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512.png",
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/1080X1080_1.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
+    },
     
-      {
-      "des": "",
+     {
+      "des": "4.7",
       "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/Z9UcdTq0V7_aUYTlZt4sQysPcaBlkyjqOKqLa4PjXGjmoczSdy8rGg1IGDamQd-4tNM=s180-rw",
-      "ads_name": "Sports Cricket -Live Sports Scores",
-      "ads_Link": "https://play.google.com/store/apps/details?id=hotguidestar.directsportsnetwork.tv.starsports.hotstar.cricket06"
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512_11.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
+    },
+    {
+      "des": "4.7",
+      "banner": "",
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512_12.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
+    },
+    {
+      "des": "4.7",
+      "banner": "",
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512_2.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
+    },
+    {
+      "des": "4.7",
+      "banner": "",
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512_3.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
+    },
+    {
+      "des": "4.7",
+      "banner": "",
+      "image_path": "https://raw.githubusercontent.co/smitbhanderi/RajMandir4/main/512X512_4.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
+    },
+    {
+      "des": "4.7",
+      "banner": "",
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512_5.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
+    },
+    {
+      "des": "4.7",
+      "banner": "",
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512_6.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
+    },
+    {
+      "des": "4.7",
+      "banner": "",
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512_7.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
     },
     
     {
-      "des": "",
+      "des": "4.7",
       "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/tKZ0OCiLooncb4dCRY4dg1F8zYa7B8QaOWSjOB7RFvz68tWAIcpzxlcqfl8LMegEZZ8=s180-rw",
-      "ads_name": "My11Team Circle",
-      "ads_Link": "https://play.google.com/store/apps/details?id=my.my11.my11circles.my11circle1.cricket.livematch.cricket02"
-    },
-    
-            {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/m7UzuFoXqeQUzdI0FRjI4peJo901tFPDgHJpnFEXHgywmgPJMYa55g6Yr-ZrmQ6DcPg=s180-rw",
-      "ads_name": "Unlimited Coin For 8 Ball Pool",
-      "ads_Link": "https://play.google.com/store/apps/details?id=unlimitedcoinfor8ballpoolwalkthroug.eightballpool04"
-    }, 
-   
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/pSfg-eOHiclY1_NMcP65a6GphAmEk0H-O5XFmE4PhUMrGuyybF-OgnryYiDP8HHAgZ0F=s180-rw",
-      "ads_name": "Picasoo",
-      "ads_Link": "https://play.google.com/store/apps/details?id=picasoo.picasootv.cricket.livetv.pikasshow.picasootvguide.picasootv01"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/bHsgbGht93qZVK_gx6ex4zBx2KOpTppJWfrVLRi40GsezOZRflvrvKzd61emp9uD0T4=s180-rw",
-      "ads_name": "Live Cricket TV HD",
-      "ads_Link": "https://play.google.com/store/apps/details?id=starsports.starsports.cricket.sportsguide.starsports.hotstar.ipl.cricket.starsports01"
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512_8.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
     },
     
     {
-      "des": "",
+      "des": "4.7",
       "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/W74S5DgCOQ5o4-p8HtRvhw54rPZAYqSUFDTKkLhrOggWZKEANG0WBjzDFkJV1NReoGM=s180-rw",
-      "ads_name": "Airtel Tv",
-      "ads_Link": "https://play.google.com/store/apps/details?id=airteltv.airteltvlive.freeairteltvsportsapp.freetv.freeairteltv.airtel02"
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512_9.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
     },
-   
+    
     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/k1XmbSIM7EwtYcBzSczglvVCsplVphlrC6I71amzpfxfnP4qHb54a5RjlljnbchcflLj=s180-rw",
-      "ads_name": "Lulubox",
-      "ads_Link": "https://play.google.com/store/apps/details?id=lulubox.lulubox.lulubox.newluluboxappsfreefire.luluboxskintool.tips.lulubox01"
-    },
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/-sorD9_F7VAE2WPeXz3OPhvKRBZ69X8l7VxK0GwBOyVozTUYggIym0j5Z1VBgzEMBrk=s180-rw",
-      "ads_name": "United Menu F Walkthrough",
-      "ads_Link": "https://play.google.com/store/apps/details?id=united.menu.freeadvice.united.menu.freeadvice01"
-    },
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/lVO40HjQAf9P9O212GFiV87IHZIbYbAd8a7StaCflyis0Noe7QduDls_qvkXt7XeP2U=s180-rw",
-      "ads_name": "I Am Fish Walkthrough Fish",
-      "ads_Link": "https://play.google.com/store/apps/details?id=iamsihgamesimusylvie.fishgamesimulatorsthree.fish.IamFish.Fish02"
-    },
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/e8A_zwK2knAbDDUJwNJyjnYOLD-Pqm7O_5lwIZZ4ZZhTGBZFaVjqUtTQGboWohk20WXm=s180-rw",
-      "ads_name": "Video Calling Face Time Walk",
-      "ads_Link": "https://play.google.com/store/apps/details?id=facetime.facetime.facetime.facetimevideochat.videochatguide09"
-    },
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/fN9TnXA3TbeGrqO0vsMcMzJXqrfPz0QHHDH3uGR3Ham1tZoJkI947GaFfGsUavJ971w=s180-rw",
-      "ads_name": "Grand City Theft Autos Walk",
-      "ads_Link": "https://play.google.com/store/apps/details?id=thref.gangster.autos.city.grandcityautos.grandtheftautocity.grandtheftauto01"
-    },
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/G6Y1GIHV25X6nHtcR3SOfgyYRbErfElG4Ss-IcIrzq9kY0OYoy4v4CHJlMxSwf7Uuus=s180-rw",
-      "ads_name": "Ranch simulator - Farming walk",
-      "ads_Link": "https://play.google.com/store/apps/details?id=ranchsimulator.ranch.ranchsimulator.ranchsimulatorfarmgame03"
-    },
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/a4jHK72hjB-yJtoURtsoi2k4uYSAEz5xe6fLYKkKgo_5jgMnyHVFX9qrUoycL6ixSg=s180-rw",
-      "ads_name": "worm zone: Wormate walkthrough",
-      "ads_Link": "https://play.google.com/store/apps/details?id=io.wormate.guidewormszonecacing.snaketipsguide.snake.zone.game02"
-    },
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/-k33QVwwdV2A1s-hNR78e1fmhc1RIN-e5Slc8UhYPFCUqQXdf6LI26vh_Ie6b4zpGnE=s180-rw",
-      "ads_name": "Ice Scream Horror Walk",
-      "ads_Link": "https://play.google.com/store/apps/details?id=icescream6.icescream5.icescream3.ice.scream.icescreamsix04"
-    },
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/-k33QVwwdV2A1s-hNR78e1fmhc1RIN-e5Slc8UhYPFCUqQXdf6LI26vh_Ie6b4zpGnE=s180-rw",
-      "ads_name": "Ice Scream Horror Walkthrough",
-      "ads_Link": "https://play.google.com/store/apps/details?id=icescream6.icescream5.icescream3.ice.scream.icescreamsix03"
-    },
-    
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "",
-      "ads_name": "Happy mod",
-      "ads_Link": "https://play.google.com/store/apps/details?id=happymod.mod.happymod.happymod.tips.mod.happymod08"
-    },
-    
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://i.git99.com/upload/android/icon/2018/04/03/6273c218dcfb83558dd6032b8f89f8af.jpg",
-      "ads_name": "Happy Mod",
-      "ads_Link": "https://play.google.com/store/apps/details?id=happymod.mod.happymod.happymod.tips.mod.happymod07"
-    },
-    
-    
-      {
-      "des": "",
-      "banner": "https://i.git99.com/upload/android/icon/2018/04/03/6273c218dcfb83558dd6032b8f89f8af.jpg",
-      "image_path": "https://play-lh.googleusercontent.com/Fj6bAxj8tyV084nxYpw8TP0sDJkJEsSmTxL7HTyLkv-50cly4Vw-WM6Ev4_Hepjryg=s180-rw",
-      "ads_name": "Grand City Theft Autos",
-      "ads_Link": "https://play.google.com/store/apps/details?id=grandcitycheats.tipsgrandcityautos.grandtheftautocity.grandcityautos.Guide01"
+      "des": "4.8",
+      "banner": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/512X512_10.png",
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/1080X1080_2.png",
+      "ads_name": "Play Game and win coins",
+      "ads_Link": "https://281.go.mglgamez.com/"
     }
-     ]
+  ]
 }
