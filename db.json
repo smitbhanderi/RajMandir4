@@ -2,82 +2,97 @@
   "ad1":[
      {
       "des": "",
-      "banner": "https://play-lh.googleusercontent.com/RFQXezlWqFS5gJXSG2okap7EmHOkvC2PU_0tHbdSUTd2c4KZjWCdbnlZIpyywISaTF8=w416-h235-rw",
-      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/winzo.png",
-      "ads_name": "Winzoo Gold",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.winzo.winzo.freegames.winzo.winzogold.winzogold.earncoins.winzo23"
-    },
-    {
-      "des": "",
-      "banner": "https://play-lh.googleusercontent.com/H0cED4j9ou4gYSq_EJXSNZ3quF1MOMz-czsRFkB7_PhmzIYbyT1Jg_e6I7OsVMenJSc=w416-h235-rw",
-      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/unnamed%20(10).png",
-      "ads_name": "Dream 11 ",
-      "ads_Link": "https://play.google.com/store/apps/details?id=dream11.mydreamteam.dreamteam11.dream11.dream11app.original.dream004"
-    },
-         {
-      "des": "",
       "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/MmLkAp-x9OvA46_NgaD7dpXIsPkvb0OTJ-WlK_-7vyjZMjBMgJ0zHhsgg2NI3r0Lobc=w240-h480-rw",
-      "ads_name": "Hotstar",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.livecrickettv.livecricket.live.cricket.tv.cricket.livecricket.starsports.sportstv020"
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/unnamed%20(10).png",
+      "ads_name": "Dream 11",
+      "ads_Link": "https://play.google.com/store/apps/details?id=dream11.mydreamteam.dreamteam11.dream11.dream11app.original.dream004"
     },
      {
       "des": "",
-      "banner": "https://raw.githubusercontent.com/RoyalItInfotech/Portfolio/main/s2.png",
+      "banner": "",
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/unnamed%20(10).png",
+      "ads_name": "Dream 11",
+      "ads_Link": "https://play.google.com/store/apps/details?id=dream11.mydreamteam.dreamteam11.dream11.dream11app.original.dream004"
+    },
+     {
+      "des": "",
+      "banner": "",
+      "image_path": "https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/unnamed%20(10).png",
+      "ads_name": "Dream 11",
+      "ads_Link": "https://play.google.com/store/apps/details?id=dream11.mydreamteam.dreamteam11.dream11.dream11app.original.dream004"
+    },
+     {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/B4gY0UylkwUXb8gBsoQqAhHsgZTtSOlprPoWV9YhNELknUDEGtChWQQIi049onSOHSA=w240-h480-rw",
+      "ads_name": "Live Cricket TV HD",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.livecrickettv.livecricket.live.cricket.tv.cricket.livecricket.starsports.sportstv14"
+    },
+     {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/zw_v2LJgOZvRTR7YbTWietdTwWkZgoKE-OG06rRwnG8E3v_BcVZi0DbYQgdG-vnJj4Q=w240-h480-rw",
+      "ads_name": "GHD Sports",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.ghdsportstv.livesportsfree.livesportsandcricket.ghd.ghd.ghdsports.ghd01"
+    },
+    {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/MmLkAp-x9OvA46_NgaD7dpXIsPkvb0OTJ-WlK_-7vyjZMjBMgJ0zHhsgg2NI3r0Lobc=w240-h480-rw",
+      "ads_name": "Star Sports",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.ghdsportstv.livesportsfree.livesportsandcricket.ghd.ghd.ghdsports.ghd06"
+    },
+    
+     {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/BJnmGC-uQiqe1AfMsyVe4XSrdopkUfWZ-VlAy6FZQTRJP0V1AvzzSxzIZnQEe0S1kL8=w240-h480-rw",
+      "ads_name": "Winzoo",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.winzo.winzo.freegames.winzo.winzogold.winzogold.earncoins.winzo23"
+    },
+     
+     {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/stUoqvZry5EBK-cmZrOM4JSD4QhLIoy5y7w-N0FXQa3UYx3LQwCk7d_9dc66fmpsx_Q=w240-h480-rw",
+      "ads_name": "GHD Sports Tv",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.ghdsportstv.livesportsfree.livesportsandcricket.ghd.ghd.ghdsports.ghd05"
+    },
+     {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/Z3-bpSwQx8bv0hrtP0jo9DSlor2iujB0vI0-RClL2jvNlZ67pCyU2IDyiusmYsgI30k=w240-h480-rw",
+      "ads_name": "Colors Tv",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.colorstv.colorrishtey.colorstvshowsserialsmovies.colors.freecolorstv.livetvserielguide.voot008"
+    },
+     {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/pWX3HXlKh0pn7-aitr-uUiXQUJJ6okpfFY4O9ukJthHqZUvH-fkxvaLExs9MBIbNpQ=w240-h480-rw",
+      "ads_name": "Game MAx Fire",
+      "ads_Link": "https://play.google.com/store/apps/details?id=maxfire.maxfire.freefire.freefiremax.freefiremax.freeguideformaffire.freefire07"
+    },
+     {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/7HMeWe8GDQQLflbdGZhfiezREr4WTFf_Bod9a6TpUEwGFNhQpGx3NqqOeN_TaPPxlQ=w240-h480-rw",
+      "ads_name": "Live Cricket TV",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.livecrickettv.livecricket.live.cricket.tv.cricket.livecricket.starsports.sportstv017"
+    },
+     {
+      "des": "",
+      "banner": "",
       "image_path": "https://play-lh.googleusercontent.com/XMFSKn41haBdeR9bpagMRvbJLaZWfTWxsOMWQomOVRwMezT_stkb-I_wsdv7EpSZllU=w240-h480-rw",
-      "ads_name": "Bank Balance Check & All Bank",
+      "ads_name": "Bank Balance Check: Check All BAnk",
       "ads_Link": "https://play.google.com/store/apps/details?id=com.royal.bankbalancecheck.bankbalance.bbcinstantbankbalancechecker.bank"
     },
+     
     
     {
       "des": "",
       "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/B4gY0UylkwUXb8gBsoQqAhHsgZTtSOlprPoWV9YhNELknUDEGtChWQQIi049onSOHSA=w240-h480-rw",
-      "ads_name": "Live Cricket Tv",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.livecrickettv.livecricket.live.cricket.tv.cricket.livecricket.starsports.sportstv14"
-    },
-        {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/zw_v2LJgOZvRTR7YbTWietdTwWkZgoKE-OG06rRwnG8E3v_BcVZi0DbYQgdG-vnJj4Q=w240-h480-rw",
-      "ads_name": "Ghd Sports",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.ghdsportstv.livesportsfree.livesportsandcricket.ghd.ghd.ghdsports.ghd01"
-    },
-        {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/5Nwm8WtPtoPvhGFvY_Tlp3AW8bBHLqaNSfxPuN-g0sGRb2-AApUk_jTw2v8JEHy58MXW=s180-rw",
-      "ads_name": "Star Sports",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.ghdsportstv.livesportsfree.livesportsandcricket.ghd.ghd.ghdsports.ghd06"
-    },
-        {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/stUoqvZry5EBK-cmZrOM4JSD4QhLIoy5y7w-N0FXQa3UYx3LQwCk7d_9dc66fmpsx_Q=w240-h480-rw",
-      "ads_name": "Ghd Sports",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.ghdsportstv.livesportsfree.livesportsandcricket.ghd.ghd.ghdsports.ghd05"
-    },
-        {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/08cihaP0AcHTbuvRyh_GFOuIXyXRGiVxrEyx01sB1rkGaZcB42SMWjzjB6cM-IIjLw=w240-h480-rw",
-      "ads_name": "Lulubox",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.lulubox.luluboxskin.guideallapk.downloadfullfreee.lulubox.lulubox.lulu05"
-    },
-
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/gtcT3jhAzu8EswZPNJQC3xgDllpvKPyiAVe2zbVon9hjpAJJ0QsdHc9dCtIZ2kqSfw=w240-h480-rw",
-      "ads_name": "GHD SPORTS TV",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.ghdsportstv.livesportsfree.livesportsandcricket.ghd.ghd.ghdsports.ghd08"
-    },
-   
-    {
-      "des": "",
-      "banner": "https://play-lh.googleusercontent.com/xWDeJLPCe4SDj1fu1ViSjNcFkG0VRBmwr8lUTwhYM6MHdHzsFfwL4ApPDGr2qaTLeaM=w416-h235-rw",
-      "image_path": "https://play-lh.googleusercontent.com/ZqmwU4H6meQ4vyfkM_cOGdHz-yqTW-HiM-Na31iLeDCsI90kLJ_qG2952ui7OjsG5w=w240-h480-rw",
-      "ads_name": "EMI Calculator",
+      "image_path": "https://play-lh.googleusercontent.com/XMFSKn41haBdeR9bpagMRvbJLaZWfTWxsOMWQomOVRwMezT_stkb-I_wsdv7EpSZllU=w240-h480-rw",
+      "ads_name": "Bank Balance Check: Check All BAnk",
       "ads_Link": "https://play.google.com/store/apps/details?id=com.royal.bankbalancecheck.bankbalance.bbcinstantbankbalancechecker.bank"
     }
      ]
