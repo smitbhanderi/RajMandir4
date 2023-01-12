@@ -1,81 +1,32 @@
 {
-  "ad1":[
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/XMFSKn41haBdeR9bpagMRvbJLaZWfTWxsOMWQomOVRwMezT_stkb-I_wsdv7EpSZllU=w240-h480-rw",
-      "ads_name": "Bank Balance Check & All Bank",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.royal.bankbalancecheck.bankbalance.bbcinstantbankbalancechecker.bank"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/3592XuigQSbSRIHVknZ9LUjWIkcmdZTXjIqWqN9_zxRV-9et0KN3CM6nnTJmRUQk-Lg=w240-h480-rw",
-      "ads_name": "Minecraft PE : Happy Mod",
-      "ads_Link": "https://play.google.com/store/apps/details?id=sb.happy.hapyy.mood.happymod.happymood.happymod.happymod019"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/FDL6o49bgXo6PjNwkVtSa88BGX76JRIFsxGzyoGAN_qDhMDEI9Y_hyNfjCX2REbOVbMx=w240-h480-rw",
-      "ads_name": "Happy Mod Games & Apps : PE",
-      "ads_Link": "https://play.google.com/store/apps/details?id=sb.happy.hapyy.mood.happymod.happymood.happymod.happymod019"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/m7UzuFoXqeQUzdI0FRjI4peJo901tFPDgHJpnFEXHgywmgPJMYa55g6Yr-ZrmQ6DcPg=s180-rw",
-      "ads_name": "Unlimited Coins For 8 Ball Pool",
-      "ads_Link": "https://play.google.com/store/apps/details?id=poolrewards.eightballpool.coinsforpool.unlimitedcoins.pool.rewards01"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/coYsUTInZCW885It7Lo8ewYRjAiiJkAeYXtZdSyacwTUdV2uCz-K6qfCgXLfO2DQJt0=w240-h480-rw",
-      "ads_name": "United Menu F",
-      "ads_Link": "https://play.google.com/store/apps/details?id=uitedmenu.happymod.unitedmenu.united.mod.mod.unitedmenu.happymod.lulubox.menu.united006"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/Sti_wTFp0h67r_qVEM0ZL-RLhVD6vadEpt0MOR71L9-uIYmqJw-ghVPE4k2OaP1ot8w=w240-h480-rw",
-      "ads_name": "Ns Tools",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.ns.tool.pro.cornerdesk.gfx.lite.ns.tool.nstoolpro01"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/5bqraHUTr4sxHKw-3lZUXyYod4k-OITPnEwYGFuvUnZJrJKckBg4--84xZ5T3sxkA_0=w240-h480-rw",
-      "ads_name": "Emotes Happymod - iMotes",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.emotesfree.happymoddance.happymod.happymod.emotes02"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/kacRLVH3N3eyHp3Rcx1vxeBZLxxHIoMTkTM569H_NsN2Q597_V4RO8-Whbwan-aqxQ=w240-h480-rw",
-      "ads_name": "ffh4x mod menu fire hack ff",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.emotes.ffh4x.emotes.ffh4x.emotes.ffh4x.ff.h4x.emote02"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/kqBkrYtF-b0XnkNom-6yDL1DJnjc_QhEV2J9dParM_PacgFdrBEoNWFom9T2S_3PddM=w240-h480-rw",
-      "ads_name": "Regedit FFH4X Mod Menu Fire",
-      "ads_Link": "https://play.google.com/store/apps/details?id=regedit.ffh4x.regedit.ffh4x.regedit.ffh4x.regedit.ffh4x01"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/awocGaAyHFgB929iIsomMVasn-zJkq-qIul--v05bxpktKI_lBWqXJ-rNwLmQqimnvkp=w240-h480-rw",
-      "ads_name": "Skin FF Tools - GFX Tools",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.ftoolf.lagfixtool.fftools.lag.gfx.fftool.gfx01"
-    },
-    {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/RXQ0sgm01jkHGg35ihfCj1rnOUBYQ2hhMIMtpV6g_ypy1OsjLCKuDBNze4VTpae-dPc=w240-h480-rw",
-      "ads_name": "FFBlue | Diamonds Calculator",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.diamondsconverterblue.diamonds.calculator01"
-    }
-     ]
+   "ad1":[
+      {
+         "des":"4.8",
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/Sportsban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/coins.png",
+         "ads_name":"Play Quiz & Win Upto 50,000 Coins",
+         "ads_Link":"https://241.set.qureka.com/"
+      },
+        {
+         "des":"4.5",
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/iplban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/sports.png",
+         "ads_name":"250+ Trending Quiz",
+         "ads_Link":"https://241.set.qureka.com/"
+      },
+      {
+         "des":"4.8",
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/Sportsban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/geography.png",
+         "ads_name":"Play Quiz Earn Coins",
+         "ads_Link":"https://241.set.qureka.com/"
+      },
+         {
+         "des":"4.9",
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/quizban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/tech.png",
+         "ads_name":"Trending Quiz",
+         "ads_Link":"https://241.set.qureka.com/"
+      }
+   ]
 }
